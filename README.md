@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.YellowstoneRiver_ZH-CN3716808579_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>方解石温泉区和黄石河，黄石国家公园，怀俄明州，美国 (© Rebecca L. Latson/Getty Images)</em>
+<img src="https://cn.bing.com/th?id=OHR.TrulliHouses_ZH-CN3856452406_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>阿尔贝罗贝洛的特鲁洛建筑，普利亚大区，意大利 (© Feng Wei Photography/Getty Images)</em>
 </div>
