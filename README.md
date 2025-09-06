@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.RufousHummer_ZH-CN1777072350_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>棕煌蜂鸟，旧金山金门公园，加利福尼亚州，美国 (© jeremyborkat/Getty Images)</em>
+<img src="https://cn.bing.com/th?id=OHR.BlueGdansk_ZH-CN3328928509_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>位于莫特拉瓦河河畔的格但斯克市，波兰 (© Oscar Dominguez/TANDEM Stills + Motion)</em>
 </div>
