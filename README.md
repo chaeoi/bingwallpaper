@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.DunquinIreland_ZH-CN1418844818_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>邓金码头的蛇形楼梯, 凯里郡, 爱尔兰 (© Hugh O'Connor/Getty Images)</em>
+<img src="https://cn.bing.com/th?id=OHR.ThousandIslands_ZH-CN3197750437_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>千岛群岛地区，圣劳伦斯河，美加边境 (© benedek/Getty Images)</em>
 </div>
