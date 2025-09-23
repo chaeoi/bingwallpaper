@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.AutumnalEquinoxY25_ZH-CN5692548297_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>航拍中国江苏省常州翠竹公园 (© Xu Changyu/Getty images)</em>
+<img src="https://cn.bing.com/th?id=OHR.BearLodge_ZH-CN5880511888_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>魔鬼塔国家纪念碑, 怀俄明州，美国 (© Laura Hedien/Getty Images)</em>
 </div>
