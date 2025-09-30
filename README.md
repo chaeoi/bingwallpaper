@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.EucalyptusKoala_ZH-CN6942451940_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>桉树上的考拉, 大奥特维国家公园, 澳大利亚 (© Jamie Lamb - elusive-images.co.uk/Getty Images)</em>
+<img src="https://cn.bing.com/th?id=OHR.YosemiteClark_ZH-CN7179533292_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>克拉克山脉, 内华达山脉, 约塞米蒂国家公园, 加利福尼亚州, 美国 (© Robb Hirsch/TANDEM Stills + Motion)</em>
 </div>
