@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.MonurikiFiji_ZH-CN9178115886_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>莫努里基岛周边的珊瑚礁，玛玛努卡群岛，斐济 (© David Wall/SuperStock)</em>
+<img src="https://cn.bing.com/th?id=OHR.WoodDuckHen_ZH-CN9558916773_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>林鸳鸯，美国 (© ps50ace/iStock/Getty Images)</em>
 </div>
