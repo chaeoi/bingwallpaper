@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.AppleHarvest_ZH-CN7317228007_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>即将收获的苹果，明尼苏达州，美国 (© Tammi Mild/Getty Images)</em>
+<img src="https://cn.bing.com/th?id=OHR.HoffmansSloth_ZH-CN7563408641_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>霍氏树懒，厄瓜多尔 (© Murray Cooper/Minden Pictures)</em>
 </div>
