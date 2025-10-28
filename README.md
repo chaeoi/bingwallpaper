@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.TepliceRocks_ZH-CN1785316311_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>安德尔施帕赫-特普利采岩石林的哥特式拱门, 捷克 (© Kseniya_Milner/Getty Images)</em>
+<img src="https://cn.bing.com/th?id=OHR.FanalForest_ZH-CN2203572101_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>法纳尔森林里的古老月桂树，马德拉群岛，葡萄牙 (© Lukas Jonaitis/Shutterstock)</em>
 </div>
