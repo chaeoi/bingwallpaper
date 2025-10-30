@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.PushkarFair_ZH-CN2069143641_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>杰伊瑟尔梅尔的骆驼, 拉贾斯坦邦, 印度 (© f9photos/Getty Images)</em>
+<img src="https://cn.bing.com/th?id=OHR.BranCastle_ZH-CN3879660917_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>布兰城堡入口, 布拉索夫, 罗马尼亚 (© blue sky in my pocket/Getty Images)</em>
 </div>
