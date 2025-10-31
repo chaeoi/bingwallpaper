@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.BranCastle_ZH-CN3879660917_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>布兰城堡入口, 布拉索夫, 罗马尼亚 (© blue sky in my pocket/Getty Images)</em>
+<img src="https://cn.bing.com/th?id=OHR.BisonSprings_ZH-CN4419733534_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>野牛在温泉边吃草,  黄石国家公园, 怀俄明州, 美国 (© Cheryl Ramalho/Getty Images)</em>
 </div>
