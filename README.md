@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.WillowBear_ZH-CN3501489210_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>丘吉尔的北极熊，曼尼托巴省，加拿大 (© karen crewe/Getty Images)</em>
+<img src="https://cn.bing.com/th?id=OHR.BandonBeach_ZH-CN3684356649_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>班登海滩的海蚀柱，俄勒冈州，美国 (© Grant Ordelheide/TANDEM Stills + Motion)</em>
 </div>
