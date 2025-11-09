@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.LagoonNebula_ZH-CN3890147543_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>礁湖星云中的星际云，由哈勃太空望远镜拍摄 (© ESA/NASA)</em>
+<img src="https://cn.bing.com/th?id=OHR.PrairieDogTown_ZH-CN3989288881_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>土拨鼠镇的黑尾土拨鼠，劣地国家公园，南达科他州，美国 (© Greg Vaughn/Getty Images)</em>
 </div>
