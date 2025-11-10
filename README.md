@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.PrairieDogTown_ZH-CN3989288881_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>土拨鼠镇的黑尾土拨鼠，劣地国家公园，南达科他州，美国 (© Greg Vaughn/Getty Images)</em>
+<img src="https://cn.bing.com/th?id=OHR.ExternsteineSunset_ZH-CN4190155102_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>条顿堡森林的伊克斯坦岩石层，德国 (© Michael Sroka/Getty Images)</em>
 </div>
