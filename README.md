@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.ColosseumRome_ZH-CN4305271578_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>斗兽场鸟瞰图，罗马，意大利 (© Nico De Pasquale Photography/Getty Images)</em>
+<img src="https://cn.bing.com/th?id=OHR.AloeDichotoma_ZH-CN4432972312_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>夜晚的箭袋树与银河，基特曼斯胡普，纳米比亚 (© Wim van den Heever/naturepl.com)</em>
 </div>
