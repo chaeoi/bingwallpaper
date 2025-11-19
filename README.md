@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.BudapestParliament_ZH-CN1607028780_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>匈牙利国会大厦，布达佩斯，匈牙利 (© Alexander Spatari/Getty Images)</em>
+<img src="https://cn.bing.com/th?id=OHR.PondCave_ZH-CN2304770650_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>查帕达迪亚曼蒂纳国家公园，巴伊亚州，巴西 (© Marcio Dufranc/Getty Images)</em>
 </div>
