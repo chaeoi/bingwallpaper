@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.LeshanBuddha_ZH-CN2804271540_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>乐山大佛, 四川, 中国 (© www.anotherdayattheoffice.org/Getty Images)</em>
+<img src="https://cn.bing.com/th?id=OHR.MadgascarAmmonite_ZH-CN6497276091_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>马达加斯加菊石化石 (© ThomasLENNE/Shutterstock)</em>
 </div>
