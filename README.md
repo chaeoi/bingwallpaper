@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.GwailorFort_ZH-CN6731607002_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>瓜廖尔堡, ‌中央邦, 印度 (© ImagesofIndia/Shutterstock)</em>
+<img src="https://cn.bing.com/th?id=OHR.TreviFountain_ZH-CN6892299520_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>罗马的特雷维喷泉, 意大利 (© Nico De Pasquale Photography/Getty Images)</em>
 </div>
