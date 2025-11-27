@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.PierOfEastbourne2025_ZH-CN7178301269_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>伊斯特本码头, 东萨塞克斯郡, 英格兰 (© Tolga_TEZCAN/Getty Images)</em>
+<img src="https://cn.bing.com/th?id=OHR.InvernoItalia_ZH-CN1329490862_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>瓦尔·布兰德特, 布雷西亚, 伦巴第大区, 意大利 (© ClickAlps/Alamy)</em>
 </div>
