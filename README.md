@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.LeipzigMarket_ZH-CN1517513161_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>莱比锡圣诞集市, 德国 (© Krzysztof Baranowski/Getty Images)</em>
+<img src="https://cn.bing.com/th?id=OHR.AntarcticArch_ZH-CN1622701432_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>冰山上天然形成的拱门, 南极洲 (© Gabrielle/Adobe Stock)</em>
 </div>
