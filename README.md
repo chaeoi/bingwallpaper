@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.BosqueCranes_ZH-CN1838488224_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>日出时的沙丘鹤, ‌阿帕奇森林国家野生动物保护区, 新墨西哥州, 美国 (© Jack Dykinga/Minden Pictures)</em>
+<img src="https://cn.bing.com/th?id=OHR.CheetahMound_ZH-CN1970221812_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>马赛马拉国家保护区的猎豹, 纳罗克, 肯尼亚 (© Andy Rouse/naturepl.com)</em>
 </div>
