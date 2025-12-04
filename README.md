@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.CheetahMound_ZH-CN1970221812_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>马赛马拉国家保护区的猎豹, 纳罗克, 肯尼亚 (© Andy Rouse/naturepl.com)</em>
+<img src="https://cn.bing.com/th?id=OHR.CopanRuins_ZH-CN2157795324_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>科潘的玛雅遗址，洪都拉斯 (© diegograndi/Getty Images)</em>
 </div>
