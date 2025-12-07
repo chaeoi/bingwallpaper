@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.TheGreatSnowY25_ZH-CN2448918230_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>雪中的故宫，中国北京 (© Ian.CuiYi/Getty Images)</em>
+<img src="https://cn.bing.com/th?id=OHR.ComoChristmas_ZH-CN2565627033_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>多马索的建筑上的圣诞彩灯，科莫湖，意大利 (© Roberto Moiola/Getty Images)</em>
 </div>
