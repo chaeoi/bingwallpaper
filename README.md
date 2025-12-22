@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.FrankfurtAlteBruecke_ZH-CN6621478221_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>法兰克福老桥，德国 (© diegograndi/Getty Images)</em>
+<img src="https://cn.bing.com/th?id=OHR.ReindeerFinland_ZH-CN6822163943_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>冬雪中的驯鹿，拉普兰德，芬兰 (© Roberto Moiola/Getty Images)</em>
 </div>
