@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.SuperiorIceMN_ZH-CN5339027344_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>苏必利尔湖沿岸的冰层，大马雷，明尼苏达州，美国 (© wanderluster/Getty Images)</em>
+<img src="https://cn.bing.com/th?id=OHR.RuffedLemur_ZH-CN5636795490_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>马达加斯加的黑白环尾狐猴 (© Cyrielle Beaubois/Getty Images)</em>
 </div>
