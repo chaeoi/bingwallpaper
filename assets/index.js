@@ -10,7 +10,27 @@ document.addEventListener("DOMContentLoaded", function () {
   const suffix = "_UHD.jpg&w=960&h=540";
   const visiblePageLinks = 3;
 
-  function displayWallpapers(page) {
+  function getPageFromURL() {
+    const params = new URLSearchParams(window.location.search);
+    const page = Number.parseInt(params.get("page"), 10);
+    return Number.isFinite(page) && page > 0 ? page : 1;
+  }
+
+  function updateURL(page, replace) {
+    const url = new URL(window.location.href);
+    if (page <= 1) {
+      url.searchParams.delete("page");
+    } else {
+      url.searchParams.set("page", page);
+    }
+    if (replace) {
+      window.history.replaceState({}, "", url.toString());
+    } else {
+      window.history.pushState({}, "", url.toString());
+    }
+  }
+
+  function displayWallpapers(page, replaceUrl) {
     contentDiv.innerHTML = "";
     const startIndex = (page - 1) * itemsPerPage;
     const endIndex = startIndex + itemsPerPage;
@@ -31,6 +51,7 @@ document.addEventListener("DOMContentLoaded", function () {
       div.appendChild(br);
       contentDiv.appendChild(div);
     });
+    updateURL(page, replaceUrl);
     window.scrollTo(0, 0);
   }
 
@@ -97,7 +118,9 @@ document.addEventListener("DOMContentLoaded", function () {
     .then((response) => response.json())
     .then((data) => {
       allData = data;
-      displayWallpapers(currentPage);
+      const totalPages = Math.max(1, Math.ceil(allData.length / itemsPerPage));
+      currentPage = Math.min(getPageFromURL(), totalPages);
+      displayWallpapers(currentPage, true);
       updatePaginationButtons();
       paginationDiv.style.display = "flex";
     })
