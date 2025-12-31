@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.GermanyNewYear_ZH-CN9155122755_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>除夕夜，奥伯鲍姆桥，柏林，德国 (© spreephoto.de/Getty Images)</em>
+<img src="https://cn.bing.com/th?id=OHR.NewYearFox_ZH-CN9312618796_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>正在睡觉的北极狐 (© Chansak Joe/Getty Images)</em>
 </div>
