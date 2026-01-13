@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.WalesWinter_ZH-CN3692879767_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>克卢伊德谷, 威尔士 (© Valerie Blencowe/Getty Images)</em>
+<img src="https://cn.bing.com/th?id=OHR.PalamidiFortress_ZH-CN5420143053_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>帕拉米蒂要塞的阶梯, 纳夫普利翁, 希腊 (© George Pachantouris/Getty Images)</em>
 </div>
