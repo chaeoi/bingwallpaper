@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.TheGreatColdY25_ZH-CN7239762815_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>栖息在树枝上的北长尾山雀，大庆市，中国黑龙江省 (© Visual China Group/Getty Images)</em>
+<img src="https://cn.bing.com/th?id=OHR.BerrySquirrel_ZH-CN7382553646_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>欧亚红松鼠 (© Galina Jacyna/Getty Images)</em>
 </div>
