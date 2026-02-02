@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.AlpineMarmots_ZH-CN6323637910_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>阿尔卑斯山土拨鼠, 霍赫陶恩国家公园, 奥地利 (© Raimund Linke/Getty Images)</em>
+<img src="https://cn.bing.com/th?id=OHR.FanetteIsland_ZH-CN6466809551_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>翡翠湾和范内特岛, 太浩湖, 加利福尼亚州, 美国 (© Bill Stevenson/Cavan Images)</em>
 </div>
