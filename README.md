@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.BigGardenBirdwatch2026_ZH-CN6864628198_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>雪中​​的红鸢 (© Carl Mckie/500px/Getty Images)</em>
+<img src="https://cn.bing.com/th?id=OHR.MaltaSalt_ZH-CN7025158187_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>戈佐岛上的盐田, 马耳他 (© Marius Roman/Getty Images)</em>
 </div>
