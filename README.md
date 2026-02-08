@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.CorfuGreece_ZH-CN4305970968_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>科孚岛的夜晚, 希腊 (© whitewizzard/Getty Images)</em>
+<img src="https://cn.bing.com/th?id=OHR.LeopardCat_ZH-CN4431427444_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>阿穆尔豹猫，俄罗斯 (© Valeriy Maleev/naturepl.com)</em>
 </div>
