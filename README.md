@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.FriendshipBridge_ZH-CN5199165736_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>连接老挝和泰国的第三座泰老友谊大桥 (© chaiyut samsuk/Getty Images)</em>
+<img src="https://cn.bing.com/th?id=OHR.ValentineHearts_ZH-CN5332774664_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>荷包牡丹 (© Dorene Hookey/Cavan Images)</em>
 </div>
