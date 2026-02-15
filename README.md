@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.MontereyHumpbacks_ZH-CN5426789466_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>蒙特雷湾的大翅鲸(座头鲸)，加利福尼亚州，美国 (© Kiliii Fish/Cavan Images)</em>
+<img src="https://cn.bing.com/th?id=OHR.ChineseNewYearEveY26_ZH-CN7770318975_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>庆祝春节的龙形灯笼，中国西安 (© Pan Hong/Getty Images)</em>
 </div>
