@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.BavariaEgret_ZH-CN0521643213_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>大白鹭，上巴伐利亚州，德国 (© Konrad Wothe/naturepl.com)</em>
+<img src="https://cn.bing.com/th?id=OHR.TulumLilies_ZH-CN0959403613_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>大天坑里的睡莲，图卢姆，墨西哥 (© Christian Vizl/Tandem Stills + Motion)</em>
 </div>
