@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.GoremeTwilight_ZH-CN3731931947_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>格雷梅的傍晚, 卡帕多西亚, 土耳其 (© ONNAJA/Getty Images)</em>
+<img src="https://cn.bing.com/th?id=OHR.WaveDenmark_ZH-CN8825888678_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>波浪住宅楼, 瓦埃勒, 丹麦 (© Frank Bach/Alamy)</em>
 </div>
