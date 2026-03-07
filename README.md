@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.BrockenSunrise_ZH-CN4930790850_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>布罗肯峰的日出, 哈尔茨国家公园, 德国 (© imageBROKER/AVTG/Getty Images)</em>
+<img src="https://cn.bing.com/th?id=OHR.UlmClock_ZH-CN9282560066_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>乌尔姆市政厅的天文钟, 德国 (© Tomekbudujedomek/Getty Images)</em>
 </div>
