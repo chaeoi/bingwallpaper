@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.PeachBloom_ZH-CN9660251274_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>盛开的桃树, 谢萨, 穆尔西亚, 西班牙 (© Juan Maria Coy Vergara/Getty Images)</em>
+<img src="https://cn.bing.com/th?id=OHR.SunbitternEcuador_ZH-CN9772788253_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>幼年日鳽在巢穴附近展示求偶行为, 厄瓜多尔 (© Andy Rouse/naturepl.com)</em>
 </div>
