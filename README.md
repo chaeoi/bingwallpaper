@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.SunbitternEcuador_ZH-CN9772788253_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>幼年日鳽在巢穴附近展示求偶行为, 厄瓜多尔 (© Andy Rouse/naturepl.com)</em>
+<img src="https://cn.bing.com/th?id=OHR.VendeeVaults_ZH-CN9885568795_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>邦港圣母教堂拱顶，莱萨布勒多洛讷，法国 (© Helmut Meyer zur Capellen/Alamy)</em>
 </div>
