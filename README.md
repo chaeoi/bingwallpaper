@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.VendeeVaults_ZH-CN9885568795_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>邦港圣母教堂拱顶，莱萨布勒多洛讷，法国 (© Helmut Meyer zur Capellen/Alamy)</em>
+<img src="https://cn.bing.com/th?id=OHR.CornwallDolmen_ZH-CN0045468799_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>兰扬石门，位于英格兰康沃尔郡的一座兰扬新石器时代石棚墓，英国 (© Helen Hotson/Alamy)</em>
 </div>
