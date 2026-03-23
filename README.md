@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.SonoranStorm_ZH-CN0579792563_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>坦噶尼喀湖，非洲 (© BEST-BACKGROUNDS/NASA/Shutterstock)</em>
+<img src="https://cn.bing.com/th?id=OHR.WuhanCherryBlossom_ZH-CN1031985926_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>东湖樱花园的樱花，武汉，中国 (© Zhang Qiao/VCG/Getty Images)</em>
 </div>
