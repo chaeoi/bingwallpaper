@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.LoganCreek_ZH-CN5372283365_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>洛根溪吊桥，西海岸步道，加拿大 (© Tandem Stock/Adobe Stock)</em>
+<img src="https://cn.bing.com/th?id=OHR.RadioCityHall_ZH-CN5492649461_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>纽约市的无线电城音乐厅, 美国 (© Clarence Holmes Photography/Alamy)</em>
 </div>
