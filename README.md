@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.BeaverPortrait_ZH-CN4700069789_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>河狸，德国 (© Andyworks/Getty Images)</em>
+<img src="https://cn.bing.com/th?id=OHR.SeattleSunrise_ZH-CN2884575647_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>西雅图，华盛顿州，美国 (© Jim Patterson/Tandem Stills + Motion)</em>
 </div>
