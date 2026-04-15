@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.VanGoghFields_ZH-CN3495668941_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>光之采石场的文森特·梵高展览, 莱博德普罗旺斯, 法国 (© Patrick Aventurier/Getty Images)</em>
+<img src="https://cn.bing.com/th?id=OHR.SkagitTulips_ZH-CN4234324174_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>斯卡吉特谷地郁金香花田, 华盛顿, 美国 (© Alan Majchrowicz/Getty Images)</em>
 </div>
