@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.MaoiStatues_ZH-CN3219447748_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>摩艾石像采石场，拉诺拉拉库，复活节岛，智利 (© Gavin Hellier/Alamy)</em>
+<img src="https://cn.bing.com/th?id=OHR.TranBA_ZH-CN3467060262_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>镜面海滩，塞古罗港，巴伊亚州，巴西 (© Marcelo Nacinovic/Getty Images)</em>
 </div>
