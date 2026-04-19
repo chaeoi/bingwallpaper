@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.TranBA_ZH-CN3467060262_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>镜面海滩，塞古罗港，巴伊亚州，巴西 (© Marcelo Nacinovic/Getty Images)</em>
+<img src="https://cn.bing.com/th?id=OHR.SunsetKiva_ZH-CN3978606378_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>夕阳下的峡谷地国家公园，莫阿布，犹他州，美国 (© Jason Hatfield/Tandem Stills + Motion)</em>
 </div>
