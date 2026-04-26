@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.AppleBlossoms_ZH-CN5887711928_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>粉红色的苹果花, 阿维拉海滩, 加利福尼亚州, 美国 (© Mimi Ditchie Photography/Getty Images)</em>
+<img src="https://cn.bing.com/th?id=OHR.MilanGalleria_ZH-CN6060869879_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>维托里奥·埃马努埃莱二世拱廊的玻璃穹顶, 米兰, 意大利 (© PhillipMinnis/Getty Images)</em>
 </div>
