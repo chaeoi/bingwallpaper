@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.GreenJasper_ZH-CN3030401138_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>阿尔伯塔省贾斯珀国家公园中的小型湖泊与湿地，加拿大 (© Don White/Getty Images)</em>
+<img src="https://cn.bing.com/th?id=OHR.MasaiLeopard_ZH-CN3406483238_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>萨瓦纳草原的树上睡觉的豹子，马赛马拉国家保护区，肯尼亚 (© Klein & Hubert/Nature Picture Library)</em>
 </div>
