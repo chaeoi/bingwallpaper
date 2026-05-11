@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.QueenslandReef_ZH-CN1138150002_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>从上方俯瞰大堡礁, 昆士兰州, 澳大利亚 (© Francesco Riccardo Iacomino/Getty Images)</em>
+<img src="https://cn.bing.com/th?id=OHR.Fratercula_ZH-CN1239275412_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>北极海鹦, 威尔士 (© FLPA/Alamy)</em>
 </div>
