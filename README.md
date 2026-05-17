@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.ShenandoahSunset_ZH-CN4399136794_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>仙纳度国家公园的玳瑁峰, 弗吉尼亚州, 美国 (© John Baggaley/Getty Images)</em>
+<img src="https://cn.bing.com/th?id=OHR.MuseumLondon_ZH-CN5602977820_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>伦敦自然历史博物馆, 英格兰 (© Colm Keating/Tandem Stills + Motion)</em>
 </div>
