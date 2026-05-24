@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.DolomitesPark_ZH-CN7134423478_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>三峰自然公园，南蒂罗尔，意大利 (© Adisorn Fineday Chutikunakorn/Getty Images)</em>
+<img src="https://cn.bing.com/th?id=OHR.HawaMahal2026_ZH-CN7233246545_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>从风之宫殿俯瞰斋浦尔市景，拉贾斯坦邦，印度 (© byheaven/Getty Images)</em>
 </div>
