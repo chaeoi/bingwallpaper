@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.HawaMahal2026_ZH-CN7233246545_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>从风之宫殿俯瞰斋浦尔市景，拉贾斯坦邦，印度 (© byheaven/Getty Images)</em>
+<img src="https://cn.bing.com/th?id=OHR.LupineBloom_ZH-CN7639721663_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>盛开的羽扇豆，北加利福尼亚州，美国 (© Jeffrey Lewis/Tandem Stills + Motion)</em>
 </div>
