@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.LupineBloom_ZH-CN7639721663_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>盛开的羽扇豆，北加利福尼亚州，美国 (© Jeffrey Lewis/Tandem Stills + Motion)</em>
+<img src="https://cn.bing.com/th?id=OHR.OtterDay_ZH-CN7735013625_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>海獭，霍默卡奇马克湾，阿拉斯加州，美国 (© roclwyr/Getty Images)</em>
 </div>
