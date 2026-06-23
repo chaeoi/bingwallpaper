@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.Fujisan_ZH-CN7203975085_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>本州岛上的富士山, 日本 (© phutthiseth thongtae/Getty Images)</em>
+<img src="https://cn.bing.com/th?id=OHR.BFPollin_ZH-CN7654067396_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>蝴蝶正在黄花上授粉 (© lzh/Getty Images)</em>
 </div>
