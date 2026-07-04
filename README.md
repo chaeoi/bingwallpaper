@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.KaysersbergVillage_ZH-CN0445080679_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>凯泽斯堡，阿尔萨斯，法国 (© Federica Gentile/Getty Images)</em>
+<img src="https://cn.bing.com/th?id=OHR.LavenderRows_ZH-CN0676810895_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>瓦朗索勒高原的薰衣草行，普罗旺斯，法国 (© Robert Harding/Shutterstock)</em>
 </div>
