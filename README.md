@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.LavenderRows_ZH-CN0676810895_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>瓦朗索勒高原的薰衣草行，普罗旺斯，法国 (© Robert Harding/Shutterstock)</em>
+<img src="https://cn.bing.com/th?id=OHR.SapaVietnam_ZH-CN2178893672_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>在沙巴的水稻田，老街，越南 (© Anujak Jaimook/Getty Images)</em>
 </div>
