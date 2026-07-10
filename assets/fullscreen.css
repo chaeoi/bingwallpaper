@@ -33,7 +33,7 @@ html {
   left: 10px;
   max-width: 70vw;
   color: white;
-  font-family: LXGW WenKai Screen;
+  font-family: "LXGW WenKai Screen", ui-sans-serif, system-ui, -apple-system, "PingFang SC", "Microsoft YaHei", sans-serif;
   font-size: 1em;
   padding: 5px;
   background-color: rgba(0, 0, 0, 0.5);

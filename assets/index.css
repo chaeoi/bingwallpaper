@@ -2,7 +2,7 @@ body {
   max-width: 1500px;
   margin: 20px auto;
   padding: 30px 10px;
-  font-family: LXGW WenKai Screen;
+  font-family: "LXGW WenKai Screen", ui-sans-serif, system-ui, -apple-system, "PingFang SC", "Microsoft YaHei", sans-serif;
 }
 
 #content {
