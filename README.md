@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.NavajoSandstone_ZH-CN5009673011_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>羚羊峡谷，纳瓦霍族保留地，亚利桑那州，美国 (© Mark Skalny/Getty Images)</em>
+<img src="https://cn.bing.com/th?id=OHR.LemonShark_ZH-CN4650331008_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>柠檬鲨幼崽在红树林中，伊柳塞拉岛，巴哈马 (© Shane Gross/Nature Picture Library)</em>
 </div>
