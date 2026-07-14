@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.LemonShark_ZH-CN4650331008_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>柠檬鲨幼崽在红树林中，伊柳塞拉岛，巴哈马 (© Shane Gross/Nature Picture Library)</em>
+<img src="https://cn.bing.com/th?id=OHR.MarieLake_ZH-CN4927917413_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>玛丽湖，约翰·缪尔荒野（毕晓普附近），加利福尼亚州，美国 (© Steve Dunleavy/Getty Images)</em>
 </div>
