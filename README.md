@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.VaiUmbrellas_ZH-CN1271422272_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>瓦伊海滩上的日光浴躺椅，克里特岛，希腊 (© borchee/Getty Images)</em>
+<img src="https://cn.bing.com/th?id=OHR.DevilsBridge_ZH-CN2164982440_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>恶魔桥在克罗姆劳杜鹃花公园，萨克森州，德国 (© Mike Mareen/Getty Images)</em>
 </div>
