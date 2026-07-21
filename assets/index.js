@@ -1,145 +1,216 @@
-document.addEventListener("DOMContentLoaded", function () {
-  const contentDiv = document.getElementById("wallpapers-container");
-  const paginationDiv = document.getElementById("pagination");
-  const prevPageButton = document.getElementById("prevPage");
-  const nextPageButton = document.getElementById("nextPage");
-  const pageNumbersDiv = document.getElementById("pageNumbers");
-  const itemsPerPage = 36;
-  let currentPage = 1;
-  let allData = [];
-  const suffix = "_UHD.jpg&w=960&h=540";
-  const visiblePageLinks = 3;
+function clampPage(page, totalPages) {
+  const parsedPage = Number.parseInt(page, 10);
+  const validPage =
+    Number.isFinite(parsedPage) && parsedPage > 0 ? parsedPage : 1;
+  return Math.min(validPage, Math.max(1, totalPages));
+}
 
-  function getPageFromURL() {
-    const params = new URLSearchParams(window.location.search);
-    const page = Number.parseInt(params.get("page"), 10);
-    return Number.isFinite(page) && page > 0 ? page : 1;
+function buildPageUrl(currentUrl, page) {
+  const url = new URL(currentUrl);
+  if (page <= 1) {
+    url.searchParams.delete("page");
+  } else {
+    url.searchParams.set("page", page);
   }
+  return url.toString();
+}
 
-  function updateURL(page, replace) {
-    const url = new URL(window.location.href);
-    if (page <= 1) {
-      url.searchParams.delete("page");
-    } else {
-      url.searchParams.set("page", page);
-    }
-    if (replace) {
-      window.history.replaceState({}, "", url.toString());
-    } else {
-      window.history.pushState({}, "", url.toString());
-    }
-  }
+if (typeof module !== "undefined" && module.exports) {
+  module.exports = { buildPageUrl, clampPage };
+}
 
-  function displayWallpapers(page, replaceUrl) {
-    contentDiv.innerHTML = "";
-    const startIndex = (page - 1) * itemsPerPage;
-    const endIndex = startIndex + itemsPerPage;
-    const currentData = allData.slice(startIndex, endIndex);
-    currentData.forEach((item) => {
-      const div = document.createElement("div");
-      const img = document.createElement("img");
-      img.src = item.image_urlbase + suffix;
-      img.alt = "Bing Wallpaper";
-      div.addEventListener("click", () => {
-        window.open(`fullscreen.html?date=${item.image_date}`, "_blank");
+if (typeof document !== "undefined") {
+  document.addEventListener("DOMContentLoaded", function () {
+    const contentDiv = document.getElementById("wallpapers-container");
+    const paginationDiv = document.getElementById("pagination");
+    const prevPageButton = document.getElementById("prevPage");
+    const nextPageButton = document.getElementById("nextPage");
+    const pageNumbersDiv = document.getElementById("pageNumbers");
+    const statusMessage = document.getElementById("status-message");
+    const itemsPerPage = 36;
+    const imageSuffix = "_UHD.jpg&w=960&h=540";
+    const visiblePageLinks = 3;
+    let currentPage = 1;
+    let allData = [];
+
+    function getPageFromURL() {
+      const params = new URLSearchParams(window.location.search);
+      return params.get("page");
+    }
+
+    function setStatus(message, isError = false) {
+      statusMessage.textContent = message;
+      statusMessage.classList.toggle("error", isError);
+      statusMessage.hidden = !message;
+    }
+
+    function updateURL(page, mode) {
+      const url = buildPageUrl(window.location.href, page);
+      if (mode === "replace") {
+        window.history.replaceState({}, "", url);
+      } else if (mode === "push") {
+        window.history.pushState({}, "", url);
+      }
+    }
+
+    function displayWallpapers() {
+      const fragment = document.createDocumentFragment();
+      const startIndex = (currentPage - 1) * itemsPerPage;
+      const currentData = allData.slice(startIndex, startIndex + itemsPerPage);
+
+      currentData.forEach((item) => {
+        const link = document.createElement("a");
+        link.className = "wallpaper-card";
+        link.href = `fullscreen.html?date=${encodeURIComponent(item.image_date)}`;
+        link.target = "_blank";
+        link.rel = "noopener";
+
+        const image = document.createElement("img");
+        image.src = item.image_urlbase + imageSuffix;
+        image.alt = "";
+        image.loading = "lazy";
+        image.decoding = "async";
+        image.width = 960;
+        image.height = 540;
+
+        const description = document.createElement("span");
+        description.textContent = item.copyright;
+
+        link.append(image, description);
+        fragment.appendChild(link);
       });
-      const span = document.createElement("span");
-      span.textContent = item.copyright;
-      const br = document.createElement("br");
-      div.appendChild(img);
-      div.appendChild(span);
-      div.appendChild(br);
-      contentDiv.appendChild(div);
+
+      contentDiv.replaceChildren(fragment);
+    }
+
+    function createPageButton(page) {
+      const button = document.createElement("button");
+      button.type = "button";
+      button.textContent = page;
+      button.setAttribute("aria-label", `第 ${page} 页`);
+
+      if (page === currentPage) {
+        button.classList.add("active");
+        button.setAttribute("aria-current", "page");
+      }
+
+      button.addEventListener("click", () => {
+        navigateToPage(page);
+      });
+      return button;
+    }
+
+    function appendEllipsis() {
+      const ellipsis = document.createElement("span");
+      ellipsis.textContent = "...";
+      ellipsis.setAttribute("aria-hidden", "true");
+      pageNumbersDiv.appendChild(ellipsis);
+    }
+
+    function updatePaginationButtons() {
+      const totalPages = Math.ceil(allData.length / itemsPerPage);
+      prevPageButton.disabled = currentPage <= 1;
+      nextPageButton.disabled = currentPage >= totalPages;
+      pageNumbersDiv.replaceChildren();
+
+      let startPage = Math.max(
+        1,
+        currentPage - Math.floor(visiblePageLinks / 2),
+      );
+      let endPage = Math.min(
+        totalPages,
+        currentPage + Math.floor(visiblePageLinks / 2),
+      );
+
+      if (endPage - startPage + 1 < visiblePageLinks) {
+        if (startPage === 1) {
+          endPage = Math.min(totalPages, visiblePageLinks);
+        } else {
+          startPage = Math.max(1, totalPages - visiblePageLinks + 1);
+        }
+      }
+
+      if (startPage > 1) {
+        pageNumbersDiv.appendChild(createPageButton(1));
+        if (startPage > 2) {
+          appendEllipsis();
+        }
+      }
+
+      for (let page = startPage; page <= endPage; page += 1) {
+        pageNumbersDiv.appendChild(createPageButton(page));
+      }
+
+      if (endPage < totalPages) {
+        if (totalPages - endPage > 1) {
+          appendEllipsis();
+        }
+        pageNumbersDiv.appendChild(createPageButton(totalPages));
+      }
+    }
+
+    function navigateToPage(
+      page,
+      { historyMode = "push", scroll = true } = {},
+    ) {
+      if (!allData.length) {
+        return;
+      }
+
+      const totalPages = Math.ceil(allData.length / itemsPerPage);
+      currentPage = clampPage(page, totalPages);
+      displayWallpapers();
+      updatePaginationButtons();
+      updateURL(currentPage, historyMode);
+
+      if (scroll) {
+        window.scrollTo({ top: 0, behavior: "auto" });
+      }
+    }
+
+    fetch("data/data.json")
+      .then((response) => {
+        if (!response.ok) {
+          throw new Error(`HTTP ${response.status}`);
+        }
+        return response.json();
+      })
+      .then((data) => {
+        if (!Array.isArray(data)) {
+          throw new Error("Wallpaper data must be an array");
+        }
+
+        allData = data;
+        if (!allData.length) {
+          setStatus("暂无壁纸数据");
+          return;
+        }
+
+        setStatus("");
+        paginationDiv.hidden = false;
+        navigateToPage(getPageFromURL(), {
+          historyMode: "replace",
+          scroll: false,
+        });
+      })
+      .catch((error) => {
+        console.error("Error fetching data:", error);
+        setStatus("壁纸数据加载失败，请稍后重试", true);
+      });
+
+    prevPageButton.addEventListener("click", () => {
+      navigateToPage(currentPage - 1);
     });
-    updateURL(page, replaceUrl);
-    window.scrollTo(0, 0);
-  }
 
-  function updatePaginationButtons() {
-    prevPageButton.disabled = currentPage === 1;
-    nextPageButton.disabled = currentPage === Math.ceil(allData.length / itemsPerPage);
-    pageNumbersDiv.innerHTML = "";
-    const totalPages = Math.ceil(allData.length / itemsPerPage);
-    let startPage = Math.max(1, currentPage - Math.floor(visiblePageLinks / 2));
-    let endPage = Math.min(totalPages, currentPage + Math.floor(visiblePageLinks / 2));
-    if (endPage - startPage + 1 < visiblePageLinks) {
-      if (startPage === 1) {
-        endPage = Math.min(totalPages, visiblePageLinks);
-      } else {
-        startPage = Math.max(1, totalPages - visiblePageLinks + 1);
-      }
-    }
-    if (startPage > 1) {
-      const firstPageLink = document.createElement("button");
-      firstPageLink.textContent = 1;
-      firstPageLink.addEventListener("click", () => {
-        currentPage = 1;
-        displayWallpapers(currentPage);
-        updatePaginationButtons();
-      });
-      pageNumbersDiv.appendChild(firstPageLink);
-      if (startPage > 2) {
-        const ellipsis = document.createElement("span");
-        ellipsis.textContent = "...";
-        pageNumbersDiv.appendChild(ellipsis);
-      }
-    }
-    for (let i = startPage; i <= endPage; i++) {
-      const pageLink = document.createElement("button");
-      pageLink.textContent = i;
-      if (i === currentPage) {
-        pageLink.classList.add("active");
-      }
-      pageLink.addEventListener("click", () => {
-        currentPage = i;
-        displayWallpapers(currentPage);
-        updatePaginationButtons();
-      });
-      pageNumbersDiv.appendChild(pageLink);
-    }
-    if (endPage < totalPages) {
-      if (totalPages - endPage > 1) {
-        const ellipsis = document.createElement("span");
-        ellipsis.textContent = "...";
-        pageNumbersDiv.appendChild(ellipsis);
-      }
-      const lastPageLink = document.createElement("button");
-      lastPageLink.textContent = totalPages;
-      lastPageLink.addEventListener("click", () => {
-        currentPage = totalPages;
-        displayWallpapers(currentPage);
-        updatePaginationButtons();
-      });
-      pageNumbersDiv.appendChild(lastPageLink);
-    }
-  }
+    nextPageButton.addEventListener("click", () => {
+      navigateToPage(currentPage + 1);
+    });
 
-  fetch("data/data.json")
-    .then((response) => response.json())
-    .then((data) => {
-      allData = data;
-      const totalPages = Math.max(1, Math.ceil(allData.length / itemsPerPage));
-      currentPage = Math.min(getPageFromURL(), totalPages);
-      displayWallpapers(currentPage, true);
-      updatePaginationButtons();
-      paginationDiv.style.display = "flex";
-    })
-    .catch((error) => console.error("Error fetching data:", error));
-
-  prevPageButton.addEventListener("click", () => {
-    if (currentPage > 1) {
-      currentPage--;
-      displayWallpapers(currentPage);
-      updatePaginationButtons();
-    }
+    window.addEventListener("popstate", () => {
+      navigateToPage(getPageFromURL(), {
+        historyMode: null,
+        scroll: false,
+      });
+    });
   });
-
-  nextPageButton.addEventListener("click", () => {
-    const totalPages = Math.ceil(allData.length / itemsPerPage);
-    if (currentPage < totalPages) {
-      currentPage++;
-      displayWallpapers(currentPage);
-      updatePaginationButtons();
-    }
-  });
-});
+}

@@ -1,21 +1,43 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="zh-CN">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="icon" href="images/bing.svg" type="image/svg+xml" />
     <link rel="preconnect" href="https://registry.npmmirror.com" crossorigin />
-    <link rel="stylesheet" href="https://registry.npmmirror.com/lxgw-wenkai-screen-web/1.522.0/files/style.css" />
+    <link
+      rel="stylesheet"
+      href="https://registry.npmmirror.com/lxgw-wenkai-screen-web/1.522.0/files/style.css"
+    />
     <link rel="stylesheet" href="assets/fullscreen.css" />
     <title>Bing Wallpaper</title>
+    <script src="assets/fullscreen.js" defer></script>
   </head>
   <body>
-    <div id="image-viewer-container">
-      <img id="viewer-image" src="" alt="Bing Wallpaper" />
-      <div id="copyright-info"></div>
-      <button id="prev-image" class="nav-button"><</button>
-      <button id="next-image" class="nav-button">></button>
-    </div>
-    <script src="assets/fullscreen.js"></script>
+    <main id="image-viewer-container">
+      <img id="viewer-image" src="images/bing.svg" alt="" />
+      <div id="viewer-status" role="status">正在加载壁纸数据</div>
+      <div id="copyright-info" aria-live="polite"></div>
+      <button
+        id="prev-image"
+        class="nav-button"
+        type="button"
+        aria-label="上一张壁纸"
+        title="上一张壁纸"
+        disabled
+      >
+        <span aria-hidden="true">&lsaquo;</span>
+      </button>
+      <button
+        id="next-image"
+        class="nav-button"
+        type="button"
+        aria-label="下一张壁纸"
+        title="下一张壁纸"
+        disabled
+      >
+        <span aria-hidden="true">&rsaquo;</span>
+      </button>
+    </main>
   </body>
 </html>

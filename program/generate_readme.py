@@ -1,21 +1,38 @@
-import requests
-import json
-from urllib.parse import urljoin
+from html import escape
+from pathlib import Path
 
-def generate_readme():
-    readme_content = ""
-    api_url = f"https://global.bing.com/HPImageArchive.aspx?format=js&mkt=zh-CN&n=1"
-    response = requests.get(api_url)
-    response.raise_for_status()
-    data = response.json()
-    image = data['images'][0]
-    readme_content += f"""<div align="center">
-<img src="{urljoin("https://cn.bing.com", image['urlbase'] + "_UHD.jpg")}" alt="Bing Wallpaper" width="100%">
-<em>{image['copyright']}</em>
-</div>"""
+from .archive import DATA_FILE, README_FILE, atomic_write_text, load_archive
 
-    with open("README.md", "w") as f:
-        f.write(readme_content)
+
+def generate_readme(data_path=DATA_FILE, readme_path=README_FILE):
+    readme_path = Path(readme_path)
+    entries = load_archive(
+        data_path,
+        require_sorted=True,
+        require_contiguous=True,
+    )
+    latest_entry = entries[0]
+    image_url = escape(latest_entry["image_urlbase"] + "_UHD.jpg", quote=True)
+    copyright_text = escape(latest_entry["copyright"])
+    content = f"""<div align="center">
+<img src="{image_url}" alt="Bing Wallpaper" width="100%">
+<em>{copyright_text}</em>
+</div>
+"""
+
+    try:
+        existing_content = readme_path.read_text(encoding="utf-8")
+    except FileNotFoundError:
+        existing_content = None
+
+    if content != existing_content:
+        atomic_write_text(readme_path, content)
+        print("Updated README.md")
+    else:
+        print("README.md is already up to date")
+
+    return content
+
 
 if __name__ == "__main__":
     generate_readme()
