@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.GaliciaBeach_ZH-CN1246611659_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>大教堂海滩，加利西亚，西班牙 (© Tui De Roy/Amazing Aerial Agency/Abobe Stock)</em>
+<img src="https://cn.bing.com/th?id=OHR.RedMangroveSunrise_ZH-CN7940335392_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>红树上的日出在小猪群岛，洪都拉斯 (© Mac Stone/Tandem Stills + Motion)</em>
 </div>
