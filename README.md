@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.RedMangroveSunrise_ZH-CN7940335392_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>红树上的日出在小猪群岛，洪都拉斯 (© Mac Stone/Tandem Stills + Motion)</em>
+<img src="https://cn.bing.com/th?id=OHR.ChicagoTiffany_ZH-CN9860688834_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>蒂芙尼穹顶，芝加哥文化中心，伊利诺伊州，美国 (© Felix Lipov/Shutterstock)</em>
 </div>
