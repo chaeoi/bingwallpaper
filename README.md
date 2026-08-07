@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.LimeKiln_ZH-CN5664152522_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>圣胡安岛石灰窑灯塔，华盛顿州，美国 (© Edmund Lowe Photography/Shutterstock)</em>
+<img src="https://cn.bing.com/th?id=OHR.StocktonInfinity_ZH-CN5941379745_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>蒂斯河畔斯托克顿无限桥，英格兰 (© Bahadir Yeniceri/Shutterstock)</em>
 </div>
