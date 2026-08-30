@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.YellowShark_ZH-CN1570569826_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>鲸鲨与黄金鲹，极乐鸟湾，西巴布亚，印度尼西亚 (© Pete Oxford/Nature Picture Library)</em>
+<img src="https://cn.bing.com/th?id=OHR.SamarkandCeiling_ZH-CN1818913296_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>雷吉斯坦广场的建筑细节，撒马尔罕，乌兹别克斯坦 (© Piero M. Bianchi/Getty Images)</em>
 </div>
