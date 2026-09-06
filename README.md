@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.LakeFyans_ZH-CN1067187791_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>菲安斯湖，格兰屏国家公园，维多利亚州，澳大利亚 (© tracielouise/Getty Images)</em>
+<img src="https://cn.bing.com/th?id=OHR.BambergTownhall_ZH-CN1407954732_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>老市政厅，班贝格，德国 (© SCStock/Getty Images)</em>
 </div>
