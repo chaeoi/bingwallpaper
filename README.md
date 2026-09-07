@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.BambergTownhall_ZH-CN1407954732_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>老市政厅，班贝格，德国 (© SCStock/Getty Images)</em>
+<img src="https://cn.bing.com/th?id=OHR.BeechEngland_ZH-CN1807343872_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>东米恩南唐斯国家公园谷物田中的山毛榉树，汉普郡，英格兰 (© Guy Edwardes/Minden Pictures)</em>
 </div>
