@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.FrenchRivieraVillage_ZH-CN2888811422_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>滨海自由城，法国里维埃拉，法国 (© StockByM/Getty Images)</em>
+<img src="https://cn.bing.com/th?id=OHR.SardineBait_ZH-CN3256234033_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>墨西哥近海围猎沙丁鱼饵球的加州海狮，太平洋 (© Henley Spiers/Nature Picture Library)</em>
 </div>
