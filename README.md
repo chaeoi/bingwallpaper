@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.FallAspens_ZH-CN7235054933_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>瓜兹曼山口附近的秋日山杨林，犹他州，美国 (© Danita Delimont/Shutterstock)</em>
+<img src="https://cn.bing.com/th?id=OHR.AutumnEquinoxY26_ZH-CN7957453091_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>地坛公园秋日美景，北京，中国 (© by Wei/Adobestock)</em>
 </div>
