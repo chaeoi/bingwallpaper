@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.BabcockSP_ZH-CN5266848536_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>格莱德溪磨坊，巴布科克州立公园，西弗吉尼亚州，美国 (© dszc/Getty Images)</em>
+<img src="https://cn.bing.com/th?id=OHR.MumblesSwansea2026_ZH-CN5419531039_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>曼布尔斯码头，斯旺西，威尔士 (© Helen Hotson/Shutterstock)</em>
 </div>
