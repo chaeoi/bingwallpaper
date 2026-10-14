@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.AmmoniteFossils_ZH-CN5825251327_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>侏罗纪时期的菊石化石 (© J Nemchinova/Getty Images)</em>
+<img src="https://cn.bing.com/th?id=OHR.WroclawPoland_ZH-CN6042428292_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>弗罗茨瓦夫集市广场景观，摄自女巫桥，弗罗茨瓦夫，波兰 (© Piotr Mitelski/Shutterstock)</em>
 </div>
