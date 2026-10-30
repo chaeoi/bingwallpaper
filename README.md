@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.AutumnCranes_ZH-CN5772055404_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>沙丘鹤，博斯克德尔阿帕奇国家野生动物保护区，新墨西哥州，美国 (© Terry St.Louis/Getty Images)</em>
+<img src="https://cn.bing.com/th?id=OHR.FrankfurtHalloween_ZH-CN5998782698_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>圣巴尔多禄茂教堂，法兰克福，德国 (© AlxeyPnferov/Getty Images)</em>
 </div>
