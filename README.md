@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.DakotaBison_ZH-CN2302503868_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>草原上的一头野牛，西奥多·罗斯福国家公园，北达科他州，美国 (© Tandem Stock/Adobe Stock)</em>
+<img src="https://cn.bing.com/th?id=OHR.DiwaliLamps_ZH-CN2462894749_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>排灯节灯笼，孟买，马哈拉施特拉邦，印度 (© Dinodia Photo/Getty Images)</em>
 </div>
