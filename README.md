@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.GilaCliff_ZH-CN2393001519_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>美国新墨西哥州吉拉悬崖民居国家纪念地 (© Chiara Salvadori/Getty Images)</em>
+<img src="https://cn.bing.com/th?id=OHR.TrailCedars_ZH-CN2670680285_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>雪松林步道，冰川国家公园，蒙大拿州，美国 (© DBushue Photography/Getty Images)</em>
 </div>
