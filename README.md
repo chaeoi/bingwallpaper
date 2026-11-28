@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.FaceCanyon_ZH-CN9505064248_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>夕阳下的孤峰，鲍威尔湖脸峡谷，犹他州，美国 (© Jeff Foott/Minden)</em>
+<img src="https://cn.bing.com/th?id=OHR.VltavaPrague_ZH-CN9898139716_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>捷克布拉格老城区与伏尔塔瓦河 (© Lara_Uhryn/Getty Images)</em>
 </div>
